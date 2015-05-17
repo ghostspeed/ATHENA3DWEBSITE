@@ -1,0 +1,26 @@
+body {
+    
+    background-color:rgb(127,206,252);
+    
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+.displayText{
+    color:white;
+    font-family:Arial;
+    font-size:20px;
+    position:relative;
+    top:2px;
+}
+
+.mouseOver{
+    color:red;
+    font-family:Arial;
+    font-size:13px;
+    position:relative;
+    top:0px;
+}
